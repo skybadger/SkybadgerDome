@@ -1,0 +1,36 @@
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll.config
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.pdb
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.SetupDialogForm.resources
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csproj.GenerateResource.Cache
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.dll
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.pdb
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.tlb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.SetupDialogForm.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csproj.GenerateResource.Cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.DomeVisual.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll.config
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.tlb
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.DomeVisual.resources
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csproj.ResolveComReference.cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csproj.ResolveComReference.cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csprojResolveAssemblyReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll.config
+E:\software\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.dll
+E:\software\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.pdb
+E:\software\SkybadgerDome\SkybadgerDome\bin\Release\SkybadgerDome.tlb
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ResolveAssemblyReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.csproj.ResolveComReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.DomeVisual.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.Properties.Resources.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ASCOM.Skybadger.SetupDialogForm.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ResGen.read.1.tlog
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\ResGen.write.1.tlog
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.dll
+E:\software\SkybadgerDome\SkybadgerDome\obj\Release\SkybadgerDome.pdb

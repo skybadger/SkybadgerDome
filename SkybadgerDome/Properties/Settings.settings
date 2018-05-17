@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ASCOM.Skybadger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DomeCommPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM8</Value>
+    </Setting>
+    <Setting Name="DomeCommSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19200,n,8,1</Value>
+    </Setting>
+    <Setting Name="FixedCommSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19200,n,8,1</Value>
+    </Setting>
+    <Setting Name="ParkPosition" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="SlitAzimuth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="ObboCommPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM7</Value>
+    </Setting>
+    <Setting Name="I2CMagnetometerAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">61</Value>
+    </Setting>
+    <Setting Name="I2CMotorCtrlAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">176</Value>
+    </Setting>
+    <Setting Name="I2CLCDAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">198</Value>
+    </Setting>
+    <Setting Name="DomeHomeLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="DomeSlewMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AtPark" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AtHome" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="I2CObboProxyAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">85</Value>
+    </Setting>
+    <Setting Name="I2CDomeProxyAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">85</Value>
+    </Setting>
+    <Setting Name="SlitAltitude" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="SynchroOffsetAzimuth" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SynchroOffsetAltitude" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="I2CVoltsAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MagneticDeclination" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,37 @@
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.DomeVisual.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.SetupDialogForm.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csproj.GenerateResource.Cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll.config
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.tlb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csprojResolveAssemblyReference.cache
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll.config
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.pdb
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csprojResolveAssemblyReference.cache
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.DomeVisual.resources
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.SetupDialogForm.resources
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csproj.GenerateResource.Cache
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.dll
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.pdb
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.tlb
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csproj.ResolveComReference.cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csproj.ResolveComReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll.config
+E:\software\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.dll
+E:\software\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.pdb
+E:\software\SkybadgerDome\SkybadgerDome\bin\Debug\SkybadgerDome.tlb
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ResolveAssemblyReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.csproj.ResolveComReference.cache
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.DomeVisual.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.Properties.Resources.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ASCOM.Skybadger.SetupDialogForm.resources
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ResGen.read.1.tlog
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\ResGen.write.1.tlog
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.dll
+E:\software\SkybadgerDome\SkybadgerDome\obj\Debug\SkybadgerDome.pdb

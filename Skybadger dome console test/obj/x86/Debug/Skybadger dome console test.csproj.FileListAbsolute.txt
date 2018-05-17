@@ -1,0 +1,18 @@
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.exe.config
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\Skybadger dome console test.csprojResolveAssemblyReference.cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\Skybadger dome console test.csproj.ResolveComReference.cache
+E:\software\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.exe.config
+E:\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\Skybadger dome console test.csproj.ResolveComReference.cache
+E:\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.exe
+E:\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.pdb
+E:\software\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.exe
+E:\software\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.pdb
+E:\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ResolveAssemblyReference.cache
+\\obbo\e$\software\SkybadgerDome\Skybadger dome console test\bin\Debug\ASCOM.Skybadger.Test.exe.config
+\\obbo\e$\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\Skybadger dome console test.csproj.ResolveComReference.cache
+\\obbo\e$\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.exe
+\\obbo\e$\software\SkybadgerDome\Skybadger dome console test\obj\x86\Debug\ASCOM.Skybadger.Test.pdb

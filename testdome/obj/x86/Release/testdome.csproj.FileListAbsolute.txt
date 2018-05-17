@@ -1,0 +1,42 @@
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.config
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Form1.resources
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\testdome.csproj.GenerateResource.Cache
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison\documents\visual studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.config
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Form1.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Properties.Resources.resources
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\testdome.csproj.GenerateResource.Cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\doc.xml
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.manifest
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.application
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe.manifest
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.application
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.manifest
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.application
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\bin\Release\doc.xml
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe.manifest
+C:\Users\mharrison\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.application
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\testdome\obj\x86\Release\testdome.csprojResolveAssemblyReference.cache
+E:\software\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.config
+E:\software\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe.manifest
+E:\software\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.application
+E:\software\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.exe
+E:\software\SkybadgerDome\testdome\bin\Release\ASCOM.Skybadger.Test.pdb
+E:\software\SkybadgerDome\testdome\bin\Release\doc.xml
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ResolveAssemblyReference.cache
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Form1.resources
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Properties.Resources.resources
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ResGen.read.1.tlog
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ResGen.write.1.tlog
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe.manifest
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.application
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.exe
+E:\software\SkybadgerDome\testdome\obj\x86\Release\ASCOM.Skybadger.Test.pdb

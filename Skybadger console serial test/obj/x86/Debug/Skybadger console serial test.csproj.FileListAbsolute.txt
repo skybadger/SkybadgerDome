@@ -1,0 +1,2 @@
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger console serial test\bin\Debug\ASCOM.TEMPLATEDEVICENAME.Test.exe.config
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger console serial test\obj\x86\Debug\Skybadger console serial test.csprojResolveAssemblyReference.cache

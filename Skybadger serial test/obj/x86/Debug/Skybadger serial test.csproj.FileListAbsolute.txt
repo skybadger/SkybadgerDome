@@ -1,0 +1,20 @@
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Interop.Aec32BitAppServer.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.csproj.ResolveComReference.cache
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\Skybadger serial test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\Skybadger serial test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Utilities.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Utilities.xml
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.exe
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.pdb
+C:\Users\mharrison.I-BADGER.000\Documents\Visual Studio 2010\Projects\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.csprojResolveAssemblyReference.cache
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\Skybadger serial test.exe
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\Skybadger serial test.pdb
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Utilities.dll
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Exceptions.dll
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Utilities.xml
+E:\software\SkybadgerDome\Skybadger serial test\bin\Debug\ASCOM.Exceptions.xml
+E:\software\SkybadgerDome\Skybadger serial test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\software\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.exe
+E:\software\SkybadgerDome\Skybadger serial test\obj\x86\Debug\Skybadger serial test.pdb
